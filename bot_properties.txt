@@ -1,0 +1,5 @@
+ngrok = ["token", "region"]
+minecraft_server = ["/path/to/.sh or .bat", "Rcon password"]
+discord_op = ["username of the ops from discor server", "user1", "user2"]
+bot_name = name the bot 
+discord = [channel id ONLY INEGERS without quotes, "discord app token"]
